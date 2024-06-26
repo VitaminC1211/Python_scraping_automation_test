@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<grocery_list>
+    <grocery_item>
+        <name>Apples</name>
+        <price>1.50</price>
+    </grocery_item>
+    <grocery_item>
+        <name>Bananas</name>
+        <price>0.75</price>
+    </grocery_item>
+    <grocery_item>
+        <name>Milk</name>
+        <price>2.49</price>
+    </grocery_item>
+</grocery_list>
